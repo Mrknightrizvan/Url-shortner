@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "email": "thajuthaju@gmail.com",
+      "pass": "$2b$05$C3//qEvm0DZM8ksVbPguouFEJiyBIwUm5DxbyLL6YGaXiD3Ec5CV6"
+    },
+    {
+      "email": "rizvankofcl@gmail.com",
+      "pass": "$2b$05$wa/ADZk4V8YvF7HPGvFjduCNiwhO6gdtFRMQtyAwRibj4LEapVct2"
+    },
+    {
+      "email": "rizvankurungattil@gmail.com",
+      "pass": "$2b$05$iF9gLZQhLsDrMYm9Igxff.ZWkz58gEhnx9HFgM.CrX5OqXx2RIvgu"
+    }
+  ]
+}
